@@ -1,4 +1,3 @@
-# Leaf-Scan
 # Leaf Scan App 🌿📱
 
 An AI-powered mobile application designed to detect plant diseases using image classification. Built to support farmers, gardeners, and agricultural researchers, the app operates **offline** and offers a simple, intuitive interface to ensure accessible crop health monitoring even in remote areas.
