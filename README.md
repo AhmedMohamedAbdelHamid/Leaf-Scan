@@ -60,6 +60,7 @@ An AI-powered mobile application designed to detect plant diseases using image c
 
 - 🔗 [GitHub Repository](https://github.com/AhmedMohamedAbdelHamid/Leaf-Scan)
 - 📱 [App Demo on Google Drive](https://drive.google.com/file/d/1C5e9TtBiGYABMkLg6WP5BlrC4CLAr-jN/view?usp=sharing)
+- 🔗 PowerPont https://docs.google.com/presentation/d/13368jI5-25HaYKLSxMtqwNOXbvMk1iX2/edit?usp=drive_link&ouid=106137382588816765757&rtpof=true&sd=true
 
 ## 👥 Contributors
 
