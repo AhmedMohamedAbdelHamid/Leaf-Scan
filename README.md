@@ -58,7 +58,7 @@ An AI-powered mobile application designed to detect plant diseases using image c
 
 ## 📁 Resources
 
-- 🔗 [Live Demo]([https://github.com/AhmedMohamedAbdelHamid/Leaf-Scan](https://www.figma.com/proto/kQs6W1X4GyVVoQEfmZMmWk/Leaf-Scan-Prototype?node-id=88-231&p=f&t=PUEz2akuICqAfNKy-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3))
+- 🔗 [Live Demo](https://www.figma.com/proto/kQs6W1X4GyVVoQEfmZMmWk/Leaf-Scan-Prototype?node-id=88-231&p=f&t=PUEz2akuICqAfNKy-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3)
 - 📱 [App Demo on Google Drive](https://drive.google.com/file/d/1C5e9TtBiGYABMkLg6WP5BlrC4CLAr-jN/view?usp=sharing)
 - 🔗 PowerPont https://docs.google.com/presentation/d/13368jI5-25HaYKLSxMtqwNOXbvMk1iX2/edit?usp=drive_link&ouid=106137382588816765757&rtpof=true&sd=true
 
